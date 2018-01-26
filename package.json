@@ -1,0 +1,22 @@
+{
+  "name": "csslider",
+  "version": "1.0.0",
+  "description": "a pure css slider",
+  "main": "",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netzkolchose/csslider.git"
+  },
+  "author": "https://github.com/drygiel/csslider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netzkolchose/csslider/issues"
+  },
+  "homepage": "https://github.com/netzkolchose/csslider#readme"
+}
